@@ -1,4 +1,4 @@
-#SALES PREDICTIONS
+SALES PREDICTIONS
 Introduction: Introduce the project and its context. Mention that this project was completed during your internship at Codsoft and that the goal was to predict sales using certain data.
 
 Task Description: Explain the Sales Prediction task you were assigned. Describe the problem you were addressing, the significance of predicting sales, and the overall objective of the project.
